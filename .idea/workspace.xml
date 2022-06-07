@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Codewars/Even_or_odd.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Codewars/Grasshopper Check for factor.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Codewars/Return_negative.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Codewars/You_cant_code_under_pressure_no1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Codewars/Highest and lowest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +46,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "jdk.selected.JAVA_MODULE": "temurin-11",
-    "last_opened_file_path": "C:/Users/spenc/IdeaProjects/Ex_Files_Kotlin_Essential_Training/Exercise Files"
+    "last_opened_file_path": "C:/Users/spenc/IdeaProjects/Ex_Files_Kotlin_Essential_Training/Exercise Files",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,6 +59,18 @@
       <option name="presentableId" value="Default" />
       <updated>1654583763350</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit with IntelliJ IDEA &#10;&#10;Create Package Codewars&#10;Add problem You_cant_code_under_pressure_no1.kt&#10;Add problem Return_negative.kt&#10;Add problem Grasshopper Check for factor.kt&#10;Add problem Even_or_odd.kt">
+      <created>1654587182981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654587182981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit with IntelliJ IDEA &#10;&#10;Create Package Codewars&#10;Add problem You_cant_code_under_pressure_no1.kt&#10;Add problem Return_negative.kt&#10;Add problem Grasshopper Check for factor.kt&#10;Add problem Even_or_odd.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit with IntelliJ IDEA &#10;&#10;Create Package Codewars&#10;Add problem You_cant_code_under_pressure_no1.kt&#10;Add problem Return_negative.kt&#10;Add problem Grasshopper Check for factor.kt&#10;Add problem Even_or_odd.kt" />
   </component>
 </project>

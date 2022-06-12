@@ -21,11 +21,11 @@ fun main() {
     // First Attempt - Readability
     val input1 = readln()
     val target1 = readln()
-    val occurrences1 = input1.split("$target1").toMutableList()
+    val occurrences1 = input1.split(target1).toMutableList()
     println(occurrences1.lastIndex)
 
     // Second Attempt - Density
-/*fun main() = */ println(readln().split("${readln()}").lastIndex)
+/*fun main() = */ println(readln().split(readln()).lastIndex)
 }
 
 /*

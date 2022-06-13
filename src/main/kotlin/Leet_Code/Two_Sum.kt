@@ -33,6 +33,6 @@ class Solution1 {
 
         //println("Index $i equals ${nums[i]}")
 
-        return intArrayOf(0, -1)
+        // return intArrayOf(0, -1)
     }
 }

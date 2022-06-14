@@ -21,18 +21,18 @@ Memory Usage: 38.7 MB
  */
 
 class Solution1 {
-    fun twoSum(nums: IntArray, target: Int): IntArray {
+    fun twoSum(nums: IntArray, target: Int) {
         for (i in nums.indices) {
             val startIndex = i + 1
             for (j in startIndex..nums.lastIndex) {
                 if (nums[i] + nums[j] == target) {
-                    return intArrayOf(i, j)
+                    intArrayOf(i, j)
                 }
             }
         }
 
         //println("Index $i equals ${nums[i]}")
 
-        // return intArrayOf(0, -1)
+        intArrayOf(0, -1)
     }
 }

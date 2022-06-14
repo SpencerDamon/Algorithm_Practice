@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Codewars/Hero's_Root.kt" afterDir="false" />
+    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="Add Codes Wars Opposites_Attract&#10; &#10;2 solutions">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Nullable_Non_Nullable_Types_Line_Length" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Leet_Code/Two_Sum.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Leet_Code/Two_Sum.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

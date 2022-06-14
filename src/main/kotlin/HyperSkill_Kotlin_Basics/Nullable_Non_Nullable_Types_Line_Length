@@ -1,0 +1,24 @@
+
+/*
+Line length
+There is a val line: String? value. Print its length or -1 if the line is null.
+*/
+
+fun main() {
+    val line: String? = readLine()
+    if (line != null) {
+        println(line?.length)
+    } else {
+        println("-1")
+    }
+}
+
+
+//With Elvis
+fun main() {
+    val line: String? = readLine()
+    println(line?.length ?: -1)
+}
+
+// By making the type nullable, makes the variable a nullable variable
+// Note, cannot pass a nullable variable in an if expression

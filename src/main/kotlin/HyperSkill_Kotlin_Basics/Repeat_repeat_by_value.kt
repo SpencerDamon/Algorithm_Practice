@@ -16,4 +16,13 @@ Sample Output:
 fun main() {
     val input = readln()
     print(input.repeat(input.toInt()))
+
+
+    val num = readln().toInt()
+    repeat(num) { print(num) }
+
+    val amount = readln().toInt()
+    repeat(amount) {
+        print(amount)
+    }
 }

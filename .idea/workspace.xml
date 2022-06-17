@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Leet_Code/Contains_Duplicate.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Mutable Lists Banana.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -126,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655183273136</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add LeetCode Contains_Duplicate.kt&#10; &#10;First Solution using toSet(), very poor results">
+      <created>1655262180543</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655262180543</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -139,6 +146,7 @@
     <MESSAGE value="Add Hyperskill Nullable and non-nullable types topic&#10; &#10;Add Line length with 2 solutions one w/ if, one w/ elvis" />
     <MESSAGE value="Add Hyperskill Topic Repeat&#10; &#10;Add Repeat By Value solution" />
     <MESSAGE value="Add Hyperskill Topic Repeat&#10; &#10;Add Repeat By Value, three solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Hyperskill Topic Repeat&#10; &#10;Add Repeat By Value, three solutions" />
+    <MESSAGE value="Add LeetCode Contains_Duplicate.kt&#10; &#10;First Solution using toSet(), very poor results" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add LeetCode Contains_Duplicate.kt&#10; &#10;First Solution using toSet(), very poor results" />
   </component>
 </project>

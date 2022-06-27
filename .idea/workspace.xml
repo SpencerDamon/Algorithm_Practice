@@ -137,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655447046874</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Add HyperSkill RANGE topic, solved Not In Range">
+      <created>1656140370779</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1656140370779</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +159,7 @@
     <MESSAGE value="Add Hyperskill Topic Repeat&#10; &#10;Add Repeat By Value, three solutions" />
     <MESSAGE value="Add LeetCode Contains_Duplicate.kt&#10; &#10;First Solution using toSet(), very poor results" />
     <MESSAGE value="Add HyperSkill Mutable Lists Banana" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HyperSkill Mutable Lists Banana" />
+    <MESSAGE value="Add HyperSkill RANGE topic, solved Not In Range" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HyperSkill RANGE topic, solved Not In Range" />
   </component>
 </project>

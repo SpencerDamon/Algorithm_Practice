@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="" />
+    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Std_Out_Print_Triangle.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +54,20 @@
     ]
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="Std_Out_Print_TriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HyperSkill_Kotlin_Basics.Std_Out_Print_TriangleKt" />
+      <module name="Algorithm_Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Std_Out_Print_TriangleKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -144,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656140370779</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Floating-point_Numbers_Area_Of_A_Circle solved">
+      <created>1656304431290</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1656304431290</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +184,7 @@
     <MESSAGE value="Add LeetCode Contains_Duplicate.kt&#10; &#10;First Solution using toSet(), very poor results" />
     <MESSAGE value="Add HyperSkill Mutable Lists Banana" />
     <MESSAGE value="Add HyperSkill RANGE topic, solved Not In Range" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HyperSkill RANGE topic, solved Not In Range" />
+    <MESSAGE value="Floating-point_Numbers_Area_Of_A_Circle solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Floating-point_Numbers_Area_Of_A_Circle solved" />
   </component>
 </project>

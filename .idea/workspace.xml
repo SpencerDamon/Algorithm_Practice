@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Std_Out_Print_Triangle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656304431290</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Add File Hyperskill Std Out, Print a triangle&#10;&#10;Two solutions">
+      <created>1656453590810</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656453590810</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -185,6 +189,7 @@
     <MESSAGE value="Add HyperSkill Mutable Lists Banana" />
     <MESSAGE value="Add HyperSkill RANGE topic, solved Not In Range" />
     <MESSAGE value="Floating-point_Numbers_Area_Of_A_Circle solved" />
-    <option name="LAST_COMMIT_MESSAGE" value="Floating-point_Numbers_Area_Of_A_Circle solved" />
+    <MESSAGE value="Add File Hyperskill Std Out, Print a triangle&#10;&#10;Two solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add File Hyperskill Std Out, Print a triangle&#10;&#10;Two solutions" />
   </component>
 </project>

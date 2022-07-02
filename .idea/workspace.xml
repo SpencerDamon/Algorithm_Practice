@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Increment_and_Decrement.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Type_System_toInt_or_String.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +54,7 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Type_System_toInt_or_StringKt">
     <configuration name="Std_Out_Print_TriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HyperSkill_Kotlin_Basics.Std_Out_Print_TriangleKt" />
       <module name="Algorithm_Practice.main" />
@@ -62,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Type_System_toInt_or_StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HyperSkill_Kotlin_Basics.Type_System_toInt_or_StringKt" />
+      <module name="Algorithm_Practice.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Type_System_toInt_or_StringKt" />
         <item itemvalue="Kotlin.Std_Out_Print_TriangleKt" />
       </list>
     </recent_temporary>
@@ -182,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656740301895</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add File Hyperskill Increment_and_Decrement&#10;&#10;explain post and prefix">
+      <created>1656794601374</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1656794601374</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -201,6 +216,7 @@
     <MESSAGE value="Floating-point_Numbers_Area_Of_A_Circle solved" />
     <MESSAGE value="Add File Hyperskill Std Out, Print a triangle&#10;&#10;Two solutions" />
     <MESSAGE value="Add File Hyperskill Null Saftey Elvis Throws Exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add File Hyperskill Null Saftey Elvis Throws Exception" />
+    <MESSAGE value="Add File Hyperskill Increment_and_Decrement&#10;&#10;explain post and prefix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add File Hyperskill Increment_and_Decrement&#10;&#10;explain post and prefix" />
   </component>
 </project>

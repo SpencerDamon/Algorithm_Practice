@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Processing_Strings_Lucky_Number.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -218,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657525057682</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Topic of Processing Strings, completed Lucky Number&#10;&#10;Two Solutions">
+      <created>1658608650536</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658608650536</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -241,6 +245,7 @@
     <MESSAGE value="Add File Hyperskill Type System return Int or String" />
     <MESSAGE value="Add File Hyperskill Type System Return String?.length or -1" />
     <MESSAGE value="Add File Hyperskill Compression_Algorithm.kt and solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add File Hyperskill Compression_Algorithm.kt and solution" />
+    <MESSAGE value="Topic of Processing Strings, completed Lucky Number&#10;&#10;Two Solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Topic of Processing Strings, completed Lucky Number&#10;&#10;Two Solutions" />
   </component>
 </project>

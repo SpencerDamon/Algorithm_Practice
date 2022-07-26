@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Floating_point_types_ Liquid_pressure.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -231,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658637540551</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Add Topic toString() solve problem Latte">
+      <created>1658857527359</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658857527359</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Add Topic toString() solve problem User Information">
+      <created>1658857677691</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1658857677691</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -256,6 +271,8 @@
     <MESSAGE value="Add File Hyperskill Compression_Algorithm.kt and solution" />
     <MESSAGE value="Topic of Processing Strings, completed Lucky Number&#10;&#10;Two Solutions" />
     <MESSAGE value="Add Topic toString() solve problem Tea&#10;&#10;two solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Topic toString() solve problem Tea&#10;&#10;two solutions" />
+    <MESSAGE value="Add Topic toString() solve problem Latte" />
+    <MESSAGE value="Add Topic toString() solve problem User Information" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Topic toString() solve problem User Information" />
   </component>
 </project>

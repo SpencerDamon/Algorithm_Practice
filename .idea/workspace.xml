@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="" />
+    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/spenc/IdeaProjects/Algorithm_Practice&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.grazie&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "temurin-11",
+    "last_opened_file_path": "C:/Users/spenc/IdeaProjects/Algorithm_Practice",
+    "settings.editor.selected.configurable": "preferences.externalTools"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
-      &quot;kotlin&quot;
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "kotlin"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Kotlin.Type_System_toInt_or_StringKt">
     <configuration name="Std_Out_Print_TriangleKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HyperSkill_Kotlin_Basics.Std_Out_Print_TriangleKt" />
@@ -222,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658608650536</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add Topic toString() solve problem Tea&#10;&#10;two solutions">
+      <created>1658637540551</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658637540551</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -246,6 +255,7 @@
     <MESSAGE value="Add File Hyperskill Type System Return String?.length or -1" />
     <MESSAGE value="Add File Hyperskill Compression_Algorithm.kt and solution" />
     <MESSAGE value="Topic of Processing Strings, completed Lucky Number&#10;&#10;Two Solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Topic of Processing Strings, completed Lucky Number&#10;&#10;Two Solutions" />
+    <MESSAGE value="Add Topic toString() solve problem Tea&#10;&#10;two solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Topic toString() solve problem Tea&#10;&#10;two solutions" />
   </component>
 </project>

@@ -2,7 +2,8 @@ package HyperSkill_Kotlin_Basics
 
 /*
 Banana!
-You are given a MutableList of strings and a String in the input. Replace the occurrences of the given String in the MutableList with Banana.
+You are given a MutableList of strings and a String in the input. Replace the occurrences of the given
+String in the MutableList with Banana.
 
 
 Sample Input:

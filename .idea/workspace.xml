@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="" />
+    <list default="true" id="629faa10-7b6d-4895-8675-d5f16a2fd2ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Mutable Lists Banana.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/HyperSkill_Kotlin_Basics/Mutable Lists Banana.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -271,11 +274,17 @@
       <option name="project" value="LOCAL" />
       <updated>1658971758388</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Topic Taming Exceptions Handling Arithmetic Exceptions&#10;&#10;2 solutions&#10;if/else&#10;try/catch">
+      <created>1658973553732</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1658973553732</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Create package Leet_Code&#10;&#10;Add Two Sums problem and solution" />
     <MESSAGE value="Create Package HyperSkill Kotlin Basics&#10;&#10;Add Number_Of_Occurrences.kt" />
     <MESSAGE value="Remove redundant string templates in Number_Of_Occurrences.kt" />
     <MESSAGE value="Add Codes Wars Opposites_Attract&#10; &#10;2 solutions" />
@@ -300,6 +309,7 @@
     <MESSAGE value="Add Topic Data Class solve problem Equals() Check" />
     <MESSAGE value="Add Topic Data Class solve problem Equals() Check&#10;&#10;override equals method check class, name, age&#10;do not check balance" />
     <MESSAGE value="Topic Data Class solve problem copy() Usage&#10;&#10;3 solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Topic Data Class solve problem copy() Usage&#10;&#10;3 solutions" />
+    <MESSAGE value="Topic Taming Exceptions Handling Arithmetic Exceptions&#10;&#10;2 solutions&#10;if/else&#10;try/catch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Topic Taming Exceptions Handling Arithmetic Exceptions&#10;&#10;2 solutions&#10;if/else&#10;try/catch" />
   </component>
 </project>
